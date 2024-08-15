@@ -1,0 +1,15 @@
+{
+  "mrlshop.getprice.0": "Предмет: ",
+  "mrlshop.getprice.1": "Продажа: ",
+  "mrlshop.getprice.2": "Покупка: ",
+  "mrlshop.sell.0": "Вы продали ",
+  "mrlshop.sell.1": "] за ",
+  "mrlshop.buy.0": "Вы купили ",
+  "mrlshop.buy.1": "] за ",
+  "mrlshop.unsuccess": "У вас недостаточно [",
+  "item.mrlshop.coin": "Монета",
+  "stat.mrlshop.items_bought": "Предметов куплено",
+  "stat.mrlshop.items_sold": "Предметов продано",
+  "stat.mrlshop.coins_obtained": "Монет получено",
+  "stat.mrlshop.coins_spent": "Монет потрачено"
+}

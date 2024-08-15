@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "mrlshop",
+	"version": "${version}",
+	"name": "MrlShop",
+	"description": "This mod adds some shopping mechanics",
+	"authors": [
+		"MrLavoviy aka SXLUTIXN"
+	],
+	"contact": {
+		"homepage": "https://vk.com/sxlutixn",
+		"sources": "https://github.com/MrLavoviy/MrlShop"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/mrlshop/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.mrlshop.MrlShop"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

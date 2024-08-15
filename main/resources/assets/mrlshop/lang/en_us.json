@@ -1,0 +1,15 @@
+{
+  "mrlshop.getprice.0": "Item: ",
+  "mrlshop.getprice.1": "To sell: ",
+  "mrlshop.getprice.2": "To buy: ",
+  "mrlshop.sell.0": "You sold ",
+  "mrlshop.sell.1": "] for ",
+  "mrlshop.buy.0": "You bought ",
+  "mrlshop.buy.1": "] for ",
+  "mrlshop.unsuccess": "You haven't enough [",
+  "item.mrlshop.coin": "Coin",
+  "stat.mrlshop.items_bought": "Items bought",
+  "stat.mrlshop.items_sold": "Items sold",
+  "stat.mrlshop.coins_obtained": "Coins obtained",
+  "stat.mrlshop.coins_spent": "Coins spent"
+}
